@@ -76,7 +76,7 @@
             <mxPoint x="182" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q-AmzgmCeMlgFkVJrfTR-24" value="Integration Layer" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;direction=west;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="q-AmzgmCeMlgFkVJrfTR-24" value="Integration Layer" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;direction=west;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="140" y="282" width="180" height="128" as="geometry" />
         </mxCell>
         <mxCell id="q-AmzgmCeMlgFkVJrfTR-25" value="HL7 Adapter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="q-AmzgmCeMlgFkVJrfTR-24">
